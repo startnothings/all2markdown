@@ -39,3 +39,13 @@ Options:
 | -v, --verbose         | Be more verbose. [NOSE_VERBOSE]                                                             |
 | --verbosity=VERBOSITY | Set verbosity; --verbosity=2 is the same as -v                                              |
 | -q, --quiet           | Be less verbose                                                                             |
+
+### sql2markdown
+
+数据库**单个表**转 Markdown 表格
+
+用法
+
+```
+python3 sql2markdown.py xxx.sql
+```
