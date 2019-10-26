@@ -15,7 +15,7 @@ python3 help2markdown.py
 例如
 
 ```
-> nosetest -h
+> nosetests -h
 Usage: nosetests [options]
 
 Options:
